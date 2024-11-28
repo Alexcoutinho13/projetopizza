@@ -260,6 +260,11 @@ h1 {
     text-align:center;
     line-height: 40px;
     margin-bottom:30px;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #48d05f;
+    color: white;
+    align-items: center;
 }
 .cart {
     margin-bottom:20px;
